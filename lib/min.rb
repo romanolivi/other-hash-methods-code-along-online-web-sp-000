@@ -11,3 +11,6 @@ groceries = {
 def get_the_min(groceries)
   groceries.min
 end
+
+
+puts get_the_min(groceries)
